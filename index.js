@@ -1,3 +1,1 @@
-function reverseString(str) {
-  return str.split("").reverse().join("");
-}
+const randomNumber = Math.floor(Math.random() * 10) + 1;
